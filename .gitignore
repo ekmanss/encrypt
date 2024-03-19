@@ -3,7 +3,7 @@
 .env.prod
 
 private_keys.txt
-private_keys.md
+private_keys.md.del
 
 node_modules
 .vscode
