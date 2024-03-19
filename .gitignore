@@ -1,0 +1,8 @@
+.env
+.env.dev
+.env.prod
+
+node_modules
+.vscode
+.idea
+.DS_Store

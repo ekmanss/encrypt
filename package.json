@@ -1,0 +1,16 @@
+{
+  "name": "encrypt",
+  "version": "1.0.0",
+  "description": "encrypt file",
+  "main": "index.js",
+  "repository": "https://github.com/ekmanss/encrypt.git",
+  "author": "ekmanss <hfers@msn.com>",
+  "license": "MIT",
+  "bin": "src/encrypt-decrypt-cli.js",
+  "scripts": {
+    "pkg": "pkg -t node16-linux-x64,node16-macos-x64,node16-win-x64 ."
+  },
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
